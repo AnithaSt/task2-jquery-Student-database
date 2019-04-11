@@ -1,0 +1,23 @@
+.head {
+		text-align: center;
+  		color: blue;
+  		text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	  }
+ #nameError{
+	  	color: red;
+	  }
+ #EmailError{
+	  	color: red;
+	  }
+ #GenderError{
+	  	color: red;
+	  }
+ #AgeError{
+	  	color: red;
+	  }
+ #AadhaarError{
+	  	color: red;
+	  }	  
+ #ImageError{
+	  	color: red;
+	  }
